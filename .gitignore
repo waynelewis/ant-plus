@@ -26,3 +26,13 @@
 *.exe
 *.out
 *.app
+
+ANT_DLL/
+ANT_LIB/
+DEMO_DLL/
+DEMO_LIB/
+BIN/
+readme_mac.txt
+License.txt
+ANT_Libraries.xcodeproj/
+.DS_Store
